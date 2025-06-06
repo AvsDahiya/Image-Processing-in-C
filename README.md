@@ -1,3 +1,5 @@
+This coursework involves writing a simple RGB bitmap image processing program in C, called process. process is run from the command line with two arguments, an input image file (which must already exist) and an output image file (which will be created or overwritten).
+
 # F28HS Coursework 1
 Aditya Vikram Singh Dahiya - H00444458 
 
